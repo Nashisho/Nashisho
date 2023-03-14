@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Holaa!;Soy+Ignacio+Garriga;Bienvenido+a+mi+perfil+:D" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Holaa!+Bienvenido;Soy+Ignacio+Garriga;Este+es+mi+perfil+:D" alt="Title"></img>
 </div>
 
 
@@ -12,7 +12,6 @@
 - 🌎 Estoy viviendo en la comuna de Las Cabras, Sexta Region de **Chile**
 - :sweat_smile: Soy nuevo codificando, conozco Javascript y Python. Actualmente me encuentro enfocado en el Desarrollo Web sobre todo en Front End.
 - :monocle_face: Me interesa comer, jugar, codificar y ver series 
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 - 😅 Dato raro? : Los Froot Loops son todos del mismo sabor 😰
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Algunas Lenguas y Herramientas
