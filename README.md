@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre Mi
 
 - :credit_card: Mi nombre completo es Ignacio Garriga Muñoz <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: Actualmente me encuentro finalizando un *Botcamp* de Desarrollo Web Full Stack Java Script por **Sustantiva*
+- :school: Actualmente me encuentro finalizando un *Botcamp* de Desarrollo Web Full Stack Java Script por **Sustantiva**
 - 🌎 Estoy viviendo en la comuna de Las Cabras, Sexta Region de **Chile**
 - :sweat_smile: Soy nuevo codificando, conozco Javascript y Python. Actualmente me encuentro enfocado en el Desarrollo Web sobre todo en Front End.
 - :monocle_face: Me interesa comer, jugar, codificar y ver series 
@@ -41,5 +41,5 @@
 
 <div align="center">
   🔥 ACTUALMENTE ESTOY TRABAJANDO EN SUBIR MIS PROYECTOS Y PORTAFOLIO A GITHUB!!  🔥 <br/>
-  &copy; 2022 Ignacio Garriga
+  &copy; 2023 Ignacio Garriga
 </div>
