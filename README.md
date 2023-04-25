@@ -8,11 +8,10 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre Mi
 
 - :credit_card: Mi nombre completo es Ignacio Garriga Muñoz <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: Actualmente me encuentro finalizando un *Botcamp* sobre Desarrollo Web Full Stack Java Script por **Sustantiva**
+- :school: *Botcamp* Desarrollo Web Full Stack Java Script 460 Horas y Cursando otro sobre **Front-End** 
 - 🌎 Estoy viviendo en la comuna de Las Cabras, Sexta Region de **Chile**
 - :sweat_smile: Soy nuevo codificando, conozco Javascript y Python. Me encuentro enfocado en el Desarrollo Web sobre todo en Front End.
 - :monocle_face: Me interesa comer, jugar, codificar y ver series 
-- 😅 Dato raro? : Los Froot Loops son todos del mismo sabor 😰
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes y Herramientas manejadas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
