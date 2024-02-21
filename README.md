@@ -22,20 +22,20 @@
 <p align="center">
   <a href="mailto:ignaciogarriga1994@gmail.com" >
     <img align="center" alt="l" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+  </a> 
   
   <a href="#" target="_blank">
     <img align="center" alt="" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+  </a> 
   
   <a href="https://www.facebook.com/ignacio.garrigamunoz" target="_blank">
       <img align="center" alt="" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
+  </a> 
   
 
   <a href="https://profile-summary-for-github.com/user/nashisho" target="_blank">
     <img align="center" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+  </a> 
 <p> 
 
 <div align="center">
