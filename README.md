@@ -8,7 +8,7 @@
 - :credit_card: Mi nombre es Ignacio Garriga Muñoz <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: Me forme con *Botcamps* en Desarrollo Web Full Stack Java Script con 460 Horas y otro en Front End Java Script que actualmente estoy cursando XD :laughing:
 - 🌎 Estoy viviendo en la comuna de Las Cabras :goat:, Sexta Region de **Chile**
-- :sweat_smile: Soy nuevo codificando, conozco Javascript y Python. Me encuentro enfocado en el Desarrollo Web :ok_hand:.
+- :sweat_smile: Soy relativamente nuevo codificando y me manejo con el confiable JavaScript (https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) :ok_hand:.
 - :monocle_face: Me interesa comer :hamburger:, jugar :video_game:, hacer trekking :sunrise_over_mountains: y ver series :movie_camera:.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes y Herramientas manejadas
